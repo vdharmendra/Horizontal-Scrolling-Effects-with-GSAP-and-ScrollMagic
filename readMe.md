@@ -26,31 +26,31 @@ This project demonstrates how to create smooth, fluid horizontal scrolling effec
 # Preview
 <span>Horizontal Scroll List and Card Effects</span>
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/219187667/Horizontal-Scrolling-Effects" target="_blank">
 <img style="width:350px;" src="./img/landingPage.gif" alt="" /></a>
 <br/>
 <span>Horizontal Scroll List and Card Effects Start & End Point </span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/219187667/Horizontal-Scrolling-Effects" target="_blank">
 <img style="width:350px;" src="./img/landingPage.png" alt="" />
 </a>
 <br/>
 <span>Horizontal Scroll List and Card Effects UI UX Layout Start & End Point</span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/219187667/Horizontal-Scrolling-Effects" target="_blank">
 <img style="width:350px;" src="./img/landingPageUI&UX.gif" alt="" />
 </a>
 
 <br />
 <span>Horizontal Scroll List and Card Effects UI UX Layout</span>
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/219187667/Horizontal-Scrolling-Effects" target="_blank">
 <img style="width:350px;" src="./img/landingPageUI&UX.gif" alt="" />
 </a>
 <br/>
 <span>Cover</span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/219187667/Horizontal-Scrolling-Effects" target="_blank">
 <img style="width:350px;" src="./img/cover.png" alt="" />
 </a>
 <br />
